@@ -1,0 +1,123 @@
+Report for Institution Code CMC, Resource cmc_herpetology_vouchers
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 134
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 1
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-10 ; Times: 4
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 2
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "clonophis kirtlandii" ; Times: 1
+	Query: "Lampropeltis gentilis" ; Times: 1
+	Query: "specificepithet:kirtlandii genus:Clonophis mappable:1" ; Times: 1
+	Query: "conant guttata" ; Times: 1
+	Query: "diadophis punctatus nebraska" ; Times: 1
+	Query: "aneides iecanus" ; Times: 1
+	Query: "phrynosoma santa Fe" ; Times: 1
+	Query: "phrynosoma santa Fe county" ; Times: 1
+	Query: "craugastor augusti" ; Times: 1
+	Query: "Thamnophis eques "Arizona"" ; Times: 1
+	Query: "institutioncode:cmc" ; Times: 1
+	Query: "Triturus meridionalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 326 download events in this period)
+Total number of records downloaded: 7153 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5237
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 3
+	Country: France ; Times: 2
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Russia ; Times: 2
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 5
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 7
+	Date: 2015-02-13 ; Times: 6
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 3
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Triturus vulgaris" ; Times: 1
+	Query: "graptemys texas" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "regina alleni" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "specificepithet:catesbeianus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "desmognathus marmoratus" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "farancia erytrogramma" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:amphibia" ; Times: 1
+	Query: "Graptemys stateprovince:"Louisiana"" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:variabilis genus:Sceloporus" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Craugastoridae" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "Ambystoma Tigrinum mappable:1" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 66
+Total number of records retrieved from searches: 2343
+Number of download events that retrieved data from the resource: 51
+Total number of records downloaded: 9171
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 82
+Total number of records retrieved from searches: 2477
+Number of download events that retrieved data from the resource: 254
+Total number of records downloaded: 14988
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
